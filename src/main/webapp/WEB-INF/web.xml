@@ -10,4 +10,8 @@
         <url-pattern>/*</url-pattern>
     </servlet-mapping>-->
 
+    <welcome-file-list>
+        <welcome-file>html/yys_monster.html</welcome-file>
+    </welcome-file-list>
+
 </web-app>
