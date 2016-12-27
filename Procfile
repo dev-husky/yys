@@ -1,1 +1,1 @@
-web: sh target/bin/webapp
+web:    java -jar target/dependency/jetty-runner.jar --port 80 --path /yys target/*.war
